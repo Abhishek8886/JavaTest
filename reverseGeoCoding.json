@@ -1,0 +1,537 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Masjid Wilayah Persekutuan",
+                    "short_name": "Masjid Wilayah Persekutuan",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "Kompleks Kerajaan",
+                    "short_name": "Kompleks Kerajaan",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kuala Lumpur",
+                    "short_name": "Kuala Lumpur",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Wilayah Persekutuan Kuala Lumpur",
+                    "short_name": "Wilayah Persekutuan Kuala Lumpur",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "50480",
+                    "short_name": "50480",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Masjid Wilayah Persekutuan, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.1728359,
+                        "lng": 101.6717069
+                    },
+                    "southwest": {
+                        "lat": 3.171292,
+                        "lng": 101.6699651
+                    }
+                },
+                "location": {
+                    "lat": 3.1719041,
+                    "lng": 101.6707191
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 3.173412930291502,
+                        "lng": 101.6721849802915
+                    },
+                    "southwest": {
+                        "lat": 3.170714969708498,
+                        "lng": 101.6694870197085
+                    }
+                }
+            },
+            "place_id": "ChIJBUjikWdIzDER7r_lfI4rLvo",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Jalan Sultan Mizan Zainal Abidin",
+                    "short_name": "Jalan Sultan Mizan Zainal Abidin",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Kompleks Kerajaan",
+                    "short_name": "Kompleks Kerajaan",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kuala Lumpur",
+                    "short_name": "Kuala Lumpur",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Wilayah Persekutuan Kuala Lumpur",
+                    "short_name": "Wilayah Persekutuan Kuala Lumpur",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "50480",
+                    "short_name": "50480",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Jalan Sultan Mizan Zainal Abidin, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.1716201,
+                        "lng": 101.672326
+                    },
+                    "southwest": {
+                        "lat": 3.1704187,
+                        "lng": 101.6709211
+                    }
+                },
+                "location": {
+                    "lat": 3.1709323,
+                    "lng": 101.6717097
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 3.172368380291502,
+                        "lng": 101.6729725302915
+                    },
+                    "southwest": {
+                        "lat": 3.169670419708499,
+                        "lng": 101.6702745697085
+                    }
+                }
+            },
+            "place_id": "ChIJLxyJW11IzDERhsyJhX00MiU",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Kompleks Kerajaan",
+                    "short_name": "Kompleks Kerajaan",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kuala Lumpur",
+                    "short_name": "Kuala Lumpur",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Batu",
+                    "short_name": "Batu",
+                    "types": [
+                        "administrative_area_level_4",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Federal Territory of Kuala Lumpur",
+                    "short_name": "Federal Territory of Kuala Lumpur",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Kompleks Kerajaan, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.18148,
+                        "lng": 101.6771799
+                    },
+                    "southwest": {
+                        "lat": 3.1699869,
+                        "lng": 101.6638049
+                    }
+                },
+                "location": {
+                    "lat": 3.1762337,
+                    "lng": 101.6711493
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 3.18148,
+                        "lng": 101.6771799
+                    },
+                    "southwest": {
+                        "lat": 3.1699869,
+                        "lng": 101.6638049
+                    }
+                }
+            },
+            "place_id": "ChIJ4ygSb2ZIzDERjUaRGh99XNo",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Kuala Lumpur",
+                    "short_name": "Kuala Lumpur",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Federal Territory of Kuala Lumpur",
+                    "short_name": "Federal Territory of Kuala Lumpur",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.245252,
+                        "lng": 101.758509
+                    },
+                    "southwest": {
+                        "lat": 3.0327539,
+                        "lng": 101.6152019
+                    }
+                },
+                "location": {
+                    "lat": 3.139003,
+                    "lng": 101.686855
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 3.245252,
+                        "lng": 101.758509
+                    },
+                    "southwest": {
+                        "lat": 3.0327539,
+                        "lng": 101.6152019
+                    }
+                }
+            },
+            "place_id": "ChIJ5-rvAcdJzDERfSgcL1uO2fQ",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "50480",
+                    "short_name": "50480",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "Kuala Lumpur",
+                    "short_name": "Kuala Lumpur",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Federal Territory of Kuala Lumpur",
+                    "short_name": "Federal Territory of Kuala Lumpur",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.1817022,
+                        "lng": 101.6941569
+                    },
+                    "southwest": {
+                        "lat": 3.1325402,
+                        "lng": 101.6466471
+                    }
+                },
+                "location": {
+                    "lat": 3.166432,
+                    "lng": 101.6783671
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 3.1817022,
+                        "lng": 101.6941569
+                    },
+                    "southwest": {
+                        "lat": 3.1325402,
+                        "lng": 101.6466471
+                    }
+                }
+            },
+            "place_id": "ChIJeX9QnUlIzDERlcX6myTEgao",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Federal Territory of Kuala Lumpur",
+                    "short_name": "Federal Territory of Kuala Lumpur",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Federal Territory of Kuala Lumpur, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.2433789,
+                        "lng": 101.758529
+                    },
+                    "southwest": {
+                        "lat": 3.0336329,
+                        "lng": 101.61545
+                    }
+                },
+                "location": {
+                    "lat": 3.1569486,
+                    "lng": 101.712303
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 3.2433789,
+                        "lng": 101.758529
+                    },
+                    "southwest": {
+                        "lat": 3.0336329,
+                        "lng": 101.61545
+                    }
+                }
+            },
+            "place_id": "ChIJ0-cIvSo2zDERmWzYQPUfLiM",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Batu",
+                    "short_name": "Batu",
+                    "types": [
+                        "administrative_area_level_4",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Selangor",
+                    "short_name": "Selangor",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Batu, Selangor, Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 3.389088,
+                        "lng": 101.7394781
+                    },
+                    "southwest": {
+                        "lat": 2.6432001,
+                        "lng": 101.4814614
+                    }
+                },
+                "location": {
+                    "lat": 2.7023274,
+                    "lng": 101.5475409
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 2.760442,
+                        "lng": 101.5979979
+                    },
+                    "southwest": {
+                        "lat": 2.6432001,
+                        "lng": 101.4814614
+                    }
+                }
+            },
+            "place_id": "ChIJo2Zic16zzTERihScFdoeh5o",
+            "types": [
+                "administrative_area_level_4",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Malaysia",
+                    "short_name": "MY",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Malaysia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 7.3796369,
+                        "lng": 119.2693619
+                    },
+                    "southwest": {
+                        "lat": 0.8538209,
+                        "lng": 98.9362527
+                    }
+                },
+                "location": {
+                    "lat": 4.210484,
+                    "lng": 101.975766
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 7.819846999999999,
+                        "lng": 119.813461
+                    },
+                    "southwest": {
+                        "lat": 0.461421,
+                        "lng": 99.42283599999999
+                    }
+                }
+            },
+            "place_id": "ChIJrzBnX5fTNDAR2BwhKJOWRQc",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}
